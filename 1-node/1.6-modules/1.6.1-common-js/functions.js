@@ -15,7 +15,7 @@ function divide(a, b) {
 }
 
 module.exports = {
-    sum: sum,
+    sum,
     substract,
     multiply,
     divideNumbers: divide,
